@@ -7,3 +7,7 @@ Main parts of the code;
   to new Wifi network.
 - collects and sends data to PubNub channel `channel_chart`, via PubNub REST API.
 
+circuit diagram
+
+![]{circut%20diagram.bmp}
+
