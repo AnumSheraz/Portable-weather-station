@@ -9,5 +9,5 @@ Main parts of the code;
 
 circuit diagram
 
-![]{circut%20diagram.bmp}
+![](circut%20diagram.bmp)
 
